@@ -1,5 +1,6 @@
 # Doc-digitalizer
 Application to digitalize documents with handwritten text
+Built with PyQt5 and the OCR.space API.
 
 ## Features
 
